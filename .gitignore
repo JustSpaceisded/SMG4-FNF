@@ -1,6 +1,8 @@
 export/
 .vscode/
 APIStuff.hx
-characters/
-pauseAlt/
-example_mods/
+images/
+songs/
+stages/
+videos/
+weeks/
