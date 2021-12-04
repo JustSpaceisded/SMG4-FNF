@@ -1,5 +1,6 @@
 export/
 .vscode/
 APIStuff.hx
-shared/
+characters/
+pauseAlt/
 example_mods/
