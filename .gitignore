@@ -3,4 +3,11 @@ export/
 APIStuff.hx
 assets/
 example_mods/
-plugins/
+codec/
+access/
+access_output/
+video_filter/
+video_output/
+audio_filter/
+audio_mixer/
+audio_output/
