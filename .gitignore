@@ -1,6 +1,6 @@
 export/
 .vscode/
 APIStuff.hx
-preload/
+images/
 shared/
 example_mods/

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "luke idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "luke left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "luke down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				59
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "luke up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "luke right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/smg4_assets",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "smg4",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		123
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

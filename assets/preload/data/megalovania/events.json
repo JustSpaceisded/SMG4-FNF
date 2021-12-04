@@ -1,0 +1,17 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": null,
+		"player1": "bf-pixel",
+		"player2": "smg4",
+		"player3": "gf-christmas",
+		"notes": [
+		],
+		"splashSkin": null,
+		"validScore": true,
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Megalovania"
+	}
+}

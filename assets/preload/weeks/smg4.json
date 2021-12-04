@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Glitchy",
+			"smg4",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "castle",
+	"weekCharacters": [
+		"smg4",
+		"bf",
+		"gf"
+	],
+	"storyName": "VS SMG4 (Luke)",
+	"weekName": "SMG4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
