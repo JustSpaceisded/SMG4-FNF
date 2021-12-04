@@ -1,6 +1,7 @@
 export/
 .vscode/
 APIStuff.hx
-images/
+credits/
+mainmenu/
 shared/
 example_mods/
