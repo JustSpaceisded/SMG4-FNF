@@ -2,7 +2,5 @@ export/
 .vscode/
 APIStuff.hx
 assets/
-art/
 example_mods/
 plugins/
-vlc/
