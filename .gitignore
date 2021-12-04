@@ -1,6 +1,6 @@
 export/
 .vscode/
 APIStuff.hx
-assets/
+preload/
+shared/
 example_mods/
-video_filter/
