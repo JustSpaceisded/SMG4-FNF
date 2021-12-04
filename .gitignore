@@ -3,6 +3,4 @@ export/
 APIStuff.hx
 assets/
 example_mods/
-codec/
 video_filter/
-video_output/
