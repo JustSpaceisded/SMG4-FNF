@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="If Boyfriend Was In: SMG4 - DEMO" file="SMG4" packageName="com.generalisk.smg4" package="com.generalisk.smg4" main="Main" version="0.1" company="Generalisk" />
+	<app title="If Boyfriend Was In: SMG4 - DEMO" file="SMG4" packageName="com.generalisk.smg4" package="com.generalisk.smg4" main="Main" version="0.1.1" company="Generalisk" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
@@ -147,8 +147,12 @@
 
 	<!--Place custom nodes like icons here (higher priority to override the HaxeFlixel icon)-->
 	
+	<icon path="art/icon8.png" size='8'/>
 	<icon path="art/icon16.png" size='16'/>
 	<icon path="art/icon32.png" size='32'/>
 	<icon path="art/icon64.png" size='64'/>
+	<icon path="art/icon128.png" size='128'/>
+	<icon path="art/icon256.png" size='256'/>
+	<icon path="art/icon512.png" size='512'/>
 	<icon path="art/iconOG.png" />
 </project>

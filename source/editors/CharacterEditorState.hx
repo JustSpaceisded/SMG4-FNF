@@ -52,11 +52,11 @@ class CharacterEditorState extends MusicBeatState
 	var dumbTexts:FlxTypedGroup<FlxText>;
 	//var animList:Array<String> = [];
 	var curAnim:Int = 0;
-	var daAnim:String = 'spooky';
+	var daAnim:String = 'idle';
 	var goToPlayState:Bool = true;
 	var camFollow:FlxObject;
 
-	public function new(daAnim:String = 'spooky', goToPlayState:Bool = true)
+	public function new(daAnim:String = 'idle', goToPlayState:Bool = true)
 	{
 		super();
 		this.daAnim = daAnim;

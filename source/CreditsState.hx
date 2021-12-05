@@ -48,7 +48,7 @@ class CreditsState extends MusicBeatState
 		['Syndocrite', 'Syndocrite', 'Composer', 'https://twitter.com/syndrocrite', 0xFF2B004F],
 		['Charters'],
 		['Nurf', 'Nurf', 'Charter', 'https://twitter.com/PeculiarNurf', 0xFFFFFFFF],
-		['MistyFromHeaven', 'Misty', 'Charter', 'https://twitter.com/MistyOverHeaven', 0xFF8C3D00],
+		['MistyOverHeaven', 'Misty', 'Charter', 'https://twitter.com/MistyOverHeaven', 0xFF8C3D00],
 		['TheSlithyGamer4Evr', 'Slithy', 'Charter', 'https://www.youtube.com/channel/UCRyEPq3297h56-cubR38TGA', 0xFFA18E7F],
 		['Dat1awkwardboi', 'AwkwardBoi', 'Charter', 'https://youtube.com/channel/UCSApVnFslu9WnUTFE1Wdi8A', 0xFFC800FF],
 		['Voice Actors'],
