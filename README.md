@@ -18,15 +18,15 @@ This Mod Contains
 # Previews
 (Screenshot's Taken From Itch Build 0.1)
 
-![Title Screen](art/readme/screenshot-preview-title)
+![Title Screen](art/readme/screenshot-preview-title.png)
 
-![Menu](art/readme/screenshot-preview-menu)
+![Menu](art/readme/screenshot-preview-menu.png)
 
-![Credits](art/readme/screenshot-preview-credits)
+![Credits](art/readme/screenshot-preview-credits.png)
 
-![Freeplay](art/readme/screenshot-preview-freeplay)
+![Freeplay](art/readme/screenshot-preview-freeplay.png)
 
-![Glitchy](art/readme/screenshot-preview-glitchy)
+![Glitchy](art/readme/screenshot-preview-glitchy.png)
 # How To Install
 Download The Repo And Run The Folder Is VS Code, Idiot!
 # How To Build
