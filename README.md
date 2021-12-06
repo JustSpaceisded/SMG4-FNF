@@ -15,7 +15,7 @@ This Mod Contains
 
 1 New Week
 - VS SMG4 (Luke)
-# Previews
+# Previews ([skip](#credits))
 (Screenshot's Taken From Itch Build 0.1)
 
 ![Title Screen](art/readme/screenshot-preview-title.png)
@@ -27,6 +27,8 @@ This Mod Contains
 ![Freeplay](art/readme/screenshot-preview-freeplay.png)
 
 ![Glitchy](art/readme/screenshot-preview-glitchy.png)
+# Credits
+[Insert Credits Here! I'll Finish Them Later]
 # How To Install
 Download The Repo And Run The Folder Is VS Code, Idiot!
 # How To Build
