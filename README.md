@@ -15,6 +15,18 @@ This Mod Contains
 
 1 New Week
 - VS SMG4 (Luke)
+# Previews
+(Screenshot's Taken From Itch Build 0.1)
+
+![Title Screen](art/readme/screenshot-preview-title)
+
+![Menu](art/readme/screenshot-preview-menu)
+
+![Credits](art/readme/screenshot-preview-credits)
+
+![Freeplay](art/readme/screenshot-preview-freeplay)
+
+![Glitchy](art/readme/screenshot-preview-glitchy)
 # How To Install
 Download The Repo And Run The Folder Is VS Code, Idiot!
 # How To Build
@@ -31,5 +43,5 @@ If You Don't Have HaxeFlixel Or The Required Package's Installed, Do The Followi
 - `haxelib install linc_luajit`
 
 Now You Have HaxeFlixel And The Required Packages:
-- In The Repository, Run The Bat File `build-[PlatformName].bat`
+- In The Repository, Run The Bat File `compile-[PlatformName].bat`
 # TODO: Finish Writing This README
