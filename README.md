@@ -28,7 +28,15 @@ This Mod Contains
 
 ![Glitchy](art/readme/screenshot-preview-glitchy.png)
 # Credits
-[Insert Credits Here! I'll Finish Them Later]
+The Creator:
+- [Cometflamer](https://twitter.com/cometflamer)
+
+Programmer's:
+- [Generalisk](https://www.youtube.com/channel/UCS7UTEe7YAozWVJS5gCaohQ)
+- Gazozoz
+- Yelly
+
+[Finish Them Later]
 # How To Install
 Download The Repo And Run The Folder Is VS Code, Idiot!
 # How To Build
