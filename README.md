@@ -36,7 +36,24 @@ Programmer's:
 - Gazozoz
 - Yelly
 
-[Finish Them Later]
+Artist's:
+- Swirl Golem
+- Yume Potato
+
+Musician's:
+- Hipstery Dibstery
+- Unknown634
+
+Charter's:
+- SlithyGamer4evr
+- MistyOverHeaven
+
+Voice Actor's:
+- TJackKnife (Voice Of SMG4)
+- Rendevi (Voice Of REDACTED)
+- CozyDough (Voice Of REDACTED)
+
+[I'll Finish Them Later]
 # How To Install
 Download The Repo And Run The Folder Is VS Code, Idiot!
 # How To Build
