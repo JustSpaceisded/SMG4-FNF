@@ -50,7 +50,7 @@ Charter's:
 
 Voice Actor's:
 - TJackKnife (Voice Of SMG4)
-- Rendevi (Voice Of REDACTED)
+- Rendevi (Voice Of Meggy)
 - CozyDough (Voice Of REDACTED)
 
 [I'll Finish Them Later]
@@ -70,5 +70,4 @@ If You Don't Have HaxeFlixel Or The Required Package's Installed, Do The Followi
 - `haxelib install linc_luajit`
 
 Now You Have HaxeFlixel And The Required Packages:
-- In The Repository, Run The Bat File `compile-[PlatformName].bat`
-# TODO: Finish Writing This README
+- In The Repository, Run The Bat File `compile-[PlatformName].bat`. I'll Get To Mac, Linux, HTML & Android At Some Point.
