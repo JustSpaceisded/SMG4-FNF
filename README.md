@@ -1,4 +1,11 @@
 # If Boyfriend Was In SMG4
+[![Version](https://img.shields.io/github/v/release/Generalisk/SMG4-FNF)](https://github.com/Generalisk/SMG4-FNF/releases/latest)
+[![Discord](https://img.shields.io/discord/872942096720461866)](https://discord.gg/qHXCW5YMv9)
+[![File Size](https://img.shields.io/github/size/Generalisk/SMG4-FNF)](https://github.com/Generalisk/SMG4-FNF)
+[![Issues](https://img.shields.io/github/issues/Generalisk/SMG4-FNF)](https://github.com/Generalisk/SMG4-FNF/issues)
+[![License](https://img.shields.io/github/license/Generalisk/SMG4-FNF)](https://github.com/Generalisk/SMG4-FNF/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Generalisk/SMG4-FNF)](https://github.com/Generalisk/SMG4-FNF)
+
 A FNF Mod Inspired By The YouTuber [SMG4](https://www.youtube.com/c/SMG4). The Mod Is Ran On Psych Engine 0.4.2.
 # Feature's
 This Mod Contains
@@ -16,17 +23,7 @@ This Mod Contains
 1 New Week
 - VS SMG4 (Luke)
 # Previews ([skip](#credits))
-(Screenshot's Taken From Itch Build 0.1)
 
-![Title Screen](art/readme/screenshot-preview-title.png)
-
-![Menu](art/readme/screenshot-preview-menu.png)
-
-![Credits](art/readme/screenshot-preview-credits.png)
-
-![Freeplay](art/readme/screenshot-preview-freeplay.png)
-
-![Glitchy](art/readme/screenshot-preview-glitchy.png)
 # Credits
 The Creator:
 - [Cometflamer](https://twitter.com/cometflamer)
